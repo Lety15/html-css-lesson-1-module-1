@@ -1,4 +1,58 @@
-p {
+
+body{
+  background-color: #343434;
+}
+
+
+
+p
+ {
     color: #ff00ff;
     font-size: 40px;
+}
+
+.nume-clasa {
+  /* bla bla bla */
+}
+
+#nume-id {
+  /* bla bla bla*/    
+}
+
+
+
+
+#title {
+    font-size: 72px;
+}
+
+#galery{
+  border: 1px solid black;
+  width: 90%;
+}
+
+.image {
+  width: 20%;
+  border-radius: 5%;
+}
+
+a{
+  color:#fff;
+  text-decoration: none;
+}
+
+a:link {
+  color: greenyellow;
+}
+
+a:visited {
+  color: #fff;
+}
+
+a:hover {
+  color: orange
+}
+
+a:active {
+  color: red;
 }
